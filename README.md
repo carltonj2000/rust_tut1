@@ -11,6 +11,8 @@ cargo run
 
 The code in this repository is based on the following videos.
 
+- [Rust Tutorial #9 - Memory Management, Heap & Stack](https://youtu.be/-6cnnNlAvNk) - no code
+- [Rust Tutorial #8 - Functions, Expressions & Statements](https://youtu.be/APrANyLHCtQ)
 - [Rust Tutorial #7 - Conditions and Control Flow](https://youtu.be/MOa7ulhNYc0)
 - [Rust Tutorial #6 - Arithmetic and Type Casting](https://youtu.be/Uwa3P9dBHdA)
 - [Rust Tutorial #5 - Console Input](https://youtu.be/PQBX-ev5q2k)
